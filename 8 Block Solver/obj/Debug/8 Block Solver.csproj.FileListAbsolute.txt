@@ -1,0 +1,9 @@
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\bin\Debug\8 Block Solver.exe.config
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\bin\Debug\8 Block Solver.exe
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\bin\Debug\8 Block Solver.pdb
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\obj\Debug\8 Block Solver.csprojResolveAssemblyReference.cache
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\obj\Debug\_8_Block_Solver.Form1.resources
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\obj\Debug\_8_Block_Solver.Properties.Resources.resources
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\obj\Debug\8 Block Solver.csproj.GenerateResource.Cache
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\obj\Debug\8 Block Solver.exe
+C:\Users\Andre\documents\visual studio 2017\Projects\8 Block Solver\8 Block Solver\obj\Debug\8 Block Solver.pdb
